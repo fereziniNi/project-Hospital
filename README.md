@@ -1,87 +1,87 @@
 # Ferezini Hospital
 
-![Ferezini Hospital Logo](link_da_imagem_do_logo_aqui)
+![Ferezini Hospital Logo](link_to_logo_image_here)
 
-## Índice
+## Table of Contents
 
-- [Sobre o Projeto](#sobre-o-projeto)
-- [Funcionalidades](#funcionalidades)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Imagens do Projeto](#imagens-do-projeto)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
-- [Contato](#contato)
+- [About the Project](#about-the-project)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Images](#project-images)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-## Sobre o Projeto
+## About the Project
 
-O **Ferezini Hospital** é um sistema de gerenciamento hospitalar desenvolvido em PHP, CSS, JS e HTML. Ele permite aos usuários agendar consultas, realizar processos de triagem e gerenciar o CRUD de funcionários e pacientes.
+**Ferezini Hospital** is a hospital management system developed in PHP, CSS, JS, and HTML. It allows users to schedule appointments, perform triage processes, and manage the CRUD operations for staff and patients.
 
-## Funcionalidades
+## Features
 
-- **Agendamento de Consultas:** Permite que pacientes agendem suas consultas online.
-- **Triagem:** Processo de triagem para novos pacientes no hospital.
-- **Gestão de Funcionários:** CRUD (Criar, Ler, Atualizar, Deletar) de informações dos funcionários.
-- **Gestão de Pacientes:** CRUD (Criar, Ler, Atualizar, Deletar) de informações dos pacientes.
+- **Appointment Scheduling:** Allows patients to schedule their appointments online.
+- **Triage:** Triage process for new patients in the hospital.
+- **Staff Management:** CRUD (Create, Read, Update, Delete) operations for staff information.
+- **Patient Management:** CRUD (Create, Read, Update, Delete) operations for patient information.
 
-## Tecnologias Utilizadas
+## Technologies Used
 
-- **PHP:** Backend e lógica de negócios.
-- **CSS:** Estilização e design.
-- **JavaScript:** Funcionalidades interativas e dinâmicas.
-- **HTML:** Estrutura do site.
+- **PHP:** Backend and business logic.
+- **CSS:** Styling and design.
+- **JavaScript:** Interactive and dynamic functionalities.
+- **HTML:** Website structure.
 
-## Instalação
+## Installation
 
-Siga os passos abaixo para configurar o projeto em seu ambiente local.
+Follow the steps below to set up the project on your local environment.
 
-1. Clone o repositório:
+1. Clone the repository:
     ```sh
-    git clone https://github.com/seu_usuario/ferezini-hospital.git
+    git clone https://github.com/your_username/ferezini-hospital.git
     ```
-2. Navegue até o diretório do projeto:
+2. Navigate to the project directory:
     ```sh
     cd ferezini-hospital
     ```
-3. Configure o servidor web para apontar para o diretório do projeto.
-4. Certifique-se de que o servidor tenha suporte para PHP e banco de dados MySQL (ou outro banco de sua escolha).
+3. Configure your web server to point to the project directory.
+4. Ensure the server supports PHP and a MySQL database (or another database of your choice).
 
-## Uso
+## Usage
 
-Após a instalação, abra o navegador e acesse o endereço configurado no servidor web para visualizar e usar o sistema.
+After installation, open your browser and access the URL configured in your web server to view and use the system.
 
-## Imagens do Projeto
+## Project Images
 
-### Página Inicial
-![Página Inicial](link_da_imagem_da_pagina_inicial_aqui)
+### Home Page
+![Home Page](link_to_home_page_image_here)
 
-### Agendamento de Consultas
-![Agendamento de Consultas](link_da_imagem_do_agendamento_de_consultas_aqui)
+### Appointment Scheduling
+![Appointment Scheduling](link_to_appointment_scheduling_image_here)
 
-### Processo de Triagem
-![Processo de Triagem](link_da_imagem_do_processo_de_triagem_aqui)
+### Triage Process
+![Triage Process](link_to_triage_process_image_here)
 
-### Gestão de Funcionários
-![Gestão de Funcionários](link_da_imagem_da_gestao_de_funcionarios_aqui)
+### Staff Management
+![Staff Management](link_to_staff_management_image_here)
 
-### Gestão de Pacientes
-![Gestão de Pacientes](link_da_imagem_da_gestao_de_pacientes_aqui)
+### Patient Management
+![Patient Management](link_to_patient_management_image_here)
 
-## Contribuição
+## Contributing
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests. Para contribuições significativas, por favor, discuta primeiro o que você gostaria de mudar via issues.
+Contributions are welcome! Feel free to open issues and pull requests. For significant contributions, please discuss what you would like to change via issues first.
 
-## Licença
+## License
 
-Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
+Distributed under the MIT License. See `LICENSE` for more information.
 
-## Contato
+## Contact
 
-Seu Nome - [@seu_usuario_no_twitter](https://twitter.com/seu_usuario_no_twitter) - seu_email@example.com
+Your Name - [@your_twitter_handle](https://twitter.com/your_twitter_handle) - your_email@example.com
 
-Link do Projeto: [https://github.com/seu_usuario/ferezini-hospital](https://github.com/seu_usuario/ferezini-hospital)
+Project Link: [https://github.com/your_username/ferezini-hospital](https://github.com/your_username/ferezini-hospital)
 
 ---
 
-*Sinta-se à vontade para adicionar mais seções ou informações conforme necessário.*
+*Feel free to add more sections or information as needed.*
