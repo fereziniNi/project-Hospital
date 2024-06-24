@@ -1,6 +1,6 @@
 # Ferezini Hospital
 
-![Ferezini Hospital Logo](link_to_logo_image_here)
+![Ferezini Hospital Logo](https://github.com/fereziniNi/project-Hospital/blob/main/css/img/index.png)
 
 ## Table of Contents
 
