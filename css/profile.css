@@ -1,0 +1,102 @@
+body{
+    background-color: #00B436;
+    display: flex;
+    justify-items: center;
+    box-sizing: border-box;
+    flex-direction: column;
+    overflow: hidden;
+    align-items: center;
+}
+
+.navBar{
+    width: 80%;
+    height: 10%;
+    background-color: white;
+    display: flex;
+    padding: 1%;
+    margin-top: 6.7%;
+    border-radius: 8px;
+    justify-content: space-around;
+}
+
+.navButton{
+    background-color: white;
+    border: none;
+    font-family: poppins;   
+    font-size: 110%;
+    cursor: pointer;
+    color: black;
+    text-decoration: none;
+}
+
+.optionsButtons {
+    width: 100%;
+    background-color: white;
+    display: flex;
+    margin-top: 3%;
+    border-radius: 8px;
+    padding: 2vh;
+    flex-direction: column;
+}
+
+
+.linkPage {
+    text-decoration: none;
+    color: #00B436;
+    font-family: poppins;
+    font-size: 3.2vh;
+    font-weight: bolder;
+}
+
+.triangle-up-prog{
+    position: absolute;
+    top: 20px;
+    left: 72%;
+    width: 0;
+    height: 0;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-bottom: 20px solid white;
+    flex-direction: column;
+}
+
+.triangle-up{
+    position: absolute;
+    top: 20px;
+    left: 65%;
+    width: 0;
+    height: 0;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-bottom: 20px solid white;
+}
+
+.container {
+    position: relative;
+    display: flex;
+    width: 80%;
+    margin: 1%;
+}
+
+header{
+    color: #00B436;
+    font-family: poppins;
+    margin: 1.8%;
+}
+
+.info{
+    display: flex;
+}
+
+span{
+    margin: 1%;
+    font-family: poppins;
+    color: #00B436;
+    font-weight: 700;
+}
+
+h3{
+    margin: 1%;
+    font-family: poppins;
+    font-weight: 1000;
+}

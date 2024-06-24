@@ -1,0 +1,52 @@
+body{
+    background-color: #00B436;
+	margin: 0;
+	height: 100vh;
+    display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.resultForm{
+    flex-direction: column;
+    background-color: white;
+    border-radius: 15px;
+    border: none;
+    display: flex;
+    padding: 3%;
+    height: max-content;
+    width:max-content;
+    align-items: center;
+}
+
+h2{
+    font-family: poppins;
+    position: relative;
+    margin: 0%;
+    color: #00B436;
+}
+
+.postDiv{
+    color: black;
+    font-family: poppins;
+    margin: 3%;
+}
+
+span{
+    color: 	#00B436;
+    font-size: 111%;
+    font-weight: 900;
+}
+
+.back{
+    background-color: #00B436;
+    color: white;
+    font-family: poppins;
+    border: none;
+    width: 20%;
+    font-size: medium;
+    padding: 1%;
+    border-radius: 10px;
+    margin-top: 5%;
+    cursor: pointer;
+}

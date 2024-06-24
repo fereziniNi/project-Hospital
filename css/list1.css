@@ -1,0 +1,73 @@
+body {
+	background-color: #00B436;
+	margin: 0;
+	height: 100vh;
+	font-family: poppins;
+	display: block;
+	
+}
+
+.formDiv {
+	margin: 2%;
+	background-color: white;
+	width: 95%;
+	padding: 20px;
+	height: min-content;
+	border-radius: 15px;
+}
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+th, td {
+	text-align: left;
+	padding: 8px;
+}
+
+td:nth-child(odd), th:nth-child(odd) {
+	background-color: #98FB98;
+}
+
+.inputSearch {
+	margin-bottom: 5%;
+	padding: 1%;
+	border: none;
+	border-radius: 30px;
+	background-color: #b5b5b5;
+	font-size: 3vh;
+	color: black;
+}
+
+.back {
+	background-color: white;
+	color: #00B436;
+	font-family: poppins;
+	border: none;
+	width: 6%;
+	font-size: medium;
+	padding: 1%;
+	border-radius: 10px;
+	position: relative;
+	margin: 1%;
+	cursor: pointer;
+}
+
+#btnModal {
+	background-color: #98FB98;
+	border: none;
+	width: 30px;
+	cursor: pointer;
+}
+
+.tdBtn {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+img {
+	width: 30px;
+	background-color: none;
+}
