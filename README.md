@@ -54,19 +54,19 @@ After installation, open your browser and access the URL configured in your web 
 ## Project Images
 
 ### Home Page
-![Home Page](link_to_home_page_image_here)
+![Home Page](https://github.com/fereziniNi/project-Hospital/blob/main/css/img/menu.png)
 
 ### Appointment Scheduling
-![Appointment Scheduling](link_to_appointment_scheduling_image_here)
+![Appointment Scheduling](https://github.com/fereziniNi/project-Hospital/blob/main/css/img/makeConsultation.png)
 
 ### Triage Process
-![Triage Process](link_to_triage_process_image_here)
+![Triage Process](https://github.com/fereziniNi/project-Hospital/blob/main/css/img/registerEntry.png)
 
 ### Staff Management
-![Staff Management](link_to_staff_management_image_here)
+![Staff Management](https://github.com/fereziniNi/project-Hospital/blob/main/css/img/listMembers.png)
 
 ### Patient Management
-![Patient Management](link_to_patient_management_image_here)
+![Patient Management](https://github.com/fereziniNi/project-Hospital/blob/main/css/img/listPatient.png)
 
 ## Contributing
 
@@ -78,10 +78,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@your_twitter_handle](https://twitter.com/your_twitter_handle) - your_email@example.com
+Linkedin: [Nicolas Ferezini](https://www.linkedin.com/in/nicolas-ferezini-4b9464308/) 
 
 Project Link: [https://github.com/your_username/ferezini-hospital](https://github.com/your_username/ferezini-hospital)
-
----
-
-*Feel free to add more sections or information as needed.*
